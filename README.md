@@ -67,7 +67,7 @@
 ### 💼 Professional Experience
 - **User/Data Support Analyst** at **Electricity Company of Ghana Limited (ECG), Accra, Ghana (Current)** 
   Provide technical support for user data management and infrastructure in the energy sector. Implement solutions for network optimization, cloud integration, and operational efficiency. Collaborate on business analysis and development initiatives.
-- **Previous Roles**: Associated with Oando PLC in data support capacities (historical context from lprofile).
+
 
 ---
 
