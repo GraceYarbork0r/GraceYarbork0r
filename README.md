@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B008B&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Grace+Yarborkor+Abbey;User%2FData+Support+Analyst+%7C+IT+Specialist;Wllcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B008B&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Grace+Yarborkor+Abbey;User%2FData+Support+Analyst+%7C+IT+Specialist;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
-<br>
+<br>:
 
 </br>
 <p align="center">
-  <img src="https://img.shields.io/badge/-User%2FData%20Support%20Analyst-8B008B?style=flat-square&logo=azuredevops&logoColor=white&logoSize=30" />
-  <img src="https://img.shields.io/badge/-Network%20Engineer-4B0082?style=flat-square&logo=cisco&logoColor=white&logoSize=30" />
-  <img src="https://img.shields.io/badge/-Cloud%20Certified-6A5ACD?style=flat-square&logo=microsoft&logoColor=white&logoSize=30" />
-  <img src="https://img.shields.io/badge/-Ghana%2C+Accra-2E8B57?style=flat-square&logo=map&logoColor=white&logoSize=30" />
+  <img src="https://img.shields.io/badge/-User%2FData%20Support%20Analyst-8B008B?style=flat-square&logo=azuredevops&logoColor=white&logoSize=50" />
+  <img src="https://img.shields.io/badge/-Network%20Engineer-4B0082?style=flat-square&logo=cisco&logoColor=white&logoSize=50" />
+  <img src="https://img.shields.io/badge/-Cloud%20Certified-6A5ACD?style=flat-square&logo=microsoft&logoColor=white&logoSize=50" />
+  <img src="https://img.shields.io/badge/-Ghana%2CAccra-2E8B57?style=flat-square&logo=map&logoColor=white&logoSize=50" />
 
 
 
